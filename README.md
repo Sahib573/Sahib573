@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahib573&label=Profile%20views&color=0e75b6&style=flat" alt="sahib573" /> </p>
 
-- 💬 Ask me about **react, dsa and express**
+- 💬 Ask me about **NodeJs, Javascript and Python.**
 
-- 📫 How to reach me **gurdeepsingh74108@gmail.com**
+- 📫 How to reach me **sahib573singh@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am lame.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
